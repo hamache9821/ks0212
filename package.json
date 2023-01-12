@@ -1,0 +1,22 @@
+{
+  "name": "ks0212",
+  "version": "1.0.0",
+  "description": "Sample code for KS0212 keyestudio RPI 4-channel Relay Shield ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamache9821/ks0212.git"
+  },
+  "author": "hamache9801",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hamache9821/ks0212/issues"
+  },
+  "homepage": "https://github.com/hamache9821/ks0212#readme",
+  "dependencies": {
+    "node-web-gpio": "^1.0.17"
+  }
+}
